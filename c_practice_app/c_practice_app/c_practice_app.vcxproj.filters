@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="ソース ファイル\20231120">
+      <UniqueIdentifier>{61839094-744a-4e88-b654-0662e7804b02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\20231127">
+      <UniqueIdentifier>{e62742fe-5e55-422e-981d-e3380862f4c5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.c">
-      <Filter>ソース ファイル</Filter>
+    <ClCompile Include="20231120.c">
+      <Filter>ソース ファイル\20231120</Filter>
+    </ClCompile>
+    <ClCompile Include="20221127.c">
+      <Filter>ソース ファイル\20231127</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

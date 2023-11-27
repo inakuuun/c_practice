@@ -312,11 +312,14 @@
 //int main(void) {
 //    long year = 2019;
 //
-//    if((year % 100) == 0 && (year % 400) != 0){
-//        printf("%d年：平年", year);
-//    }
-//    else if ((year % 4) == 0) {
-//        printf("%d年：閏年", year);
+//    if (year % 4 == 0) {
+//        if (year % 100 == 0 && year % 400 != 0) {
+//            printf("%d年：平年", year);
+//        }
+//        else 
+//        {
+//            printf("%d年：閏年", year);
+//        }
 //    }
 //    else {
 //        printf("%d年：平年", year);
