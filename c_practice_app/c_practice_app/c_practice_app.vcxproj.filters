@@ -19,13 +19,19 @@
     <Filter Include="ソース ファイル\20231127">
       <UniqueIdentifier>{e62742fe-5e55-422e-981d-e3380862f4c5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="ソース ファイル\20231204">
+      <UniqueIdentifier>{efd45e84-0427-4ce3-94e5-166d568ef05a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20231120.c">
       <Filter>ソース ファイル\20231120</Filter>
     </ClCompile>
-    <ClCompile Include="20221127.c">
+    <ClCompile Include="SwitchAndFor.c">
       <Filter>ソース ファイル\20231127</Filter>
+    </ClCompile>
+    <ClCompile Include="While.c">
+      <Filter>ソース ファイル\20231204</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

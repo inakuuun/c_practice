@@ -127,8 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="20221127.c" />
+    <ClCompile Include="SwitchAndFor.c" />
     <ClCompile Include="20231120.c" />
+    <ClCompile Include="While.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
